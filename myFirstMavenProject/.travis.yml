@@ -3,4 +3,4 @@ jdk:
 - openjdk8
 install: true
 script: cd myFirstMavenProject
-./mvnw clean install
+./mvnw clean package
