@@ -1,5 +1,8 @@
 language: java
 jdk: 
 - openjdk8
+<<<<<<< HEAD
 install: true
 script: ./mvnw clean install
+=======
+>>>>>>> 908dab2a6582b4a0595b854e0c6e4e8fbccea0b2
